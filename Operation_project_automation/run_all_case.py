@@ -1,7 +1,7 @@
 # coding=utf-8
 import unittest
 import time
-from Operation_project_automation.common.HTMLTestRunner_api import HTMLTestRunner
+from common.HTMLTestRunner_api import HTMLTestRunner
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import smtplib

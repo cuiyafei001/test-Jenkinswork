@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="114cbfe8-be85-4810-ae82-b078a2c5597b" name="Default Changelist" comment="" />
+    <list default="true" id="114cbfe8-be85-4810-ae82-b078a2c5597b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operation_project_automation/common/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operation_project_automation/common/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operation_project_automation/report/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/Operation_project_automation/report/result.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operation_project_automation/run_all_case.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operation_project_automation/run_all_case.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,11 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Operation_project_automation/run_all_case.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="100" column="37" lean-forward="true" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
-              <folding>
-                <element signature="e#15#30#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="100">
+              <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -128,26 +130,7 @@
               <item name="SSE_testwork" type="b2602c69:ProjectViewProjectNode" />
               <item name="SSE_testwork" type="462c0819:PsiDirectoryNode" />
               <item name="Operation_project_automation" type="462c0819:PsiDirectoryNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSE_testwork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSE_testwork" type="462c0819:PsiDirectoryNode" />
-              <item name="Operation_project_automation" type="462c0819:PsiDirectoryNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
-              <item name="mokuai1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSE_testwork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSE_testwork" type="462c0819:PsiDirectoryNode" />
-              <item name="Operation_project_automation" type="462c0819:PsiDirectoryNode" />
               <item name="common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SSE_testwork" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SSE_testwork" type="462c0819:PsiDirectoryNode" />
-              <item name="Operation_project_automation" type="462c0819:PsiDirectoryNode" />
-              <item name="report" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SSE_testwork" type="b2602c69:ProjectViewProjectNode" />
@@ -321,15 +304,15 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24032739" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24032739" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33224222" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.49590835" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -514,11 +497,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Operation_project_automation/run_all_case.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="100" column="37" lean-forward="true" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
-          <folding>
-            <element signature="e#15#30#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="100">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
