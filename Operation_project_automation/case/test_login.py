@@ -27,7 +27,7 @@ class LoginCase(unittest.TestCase):
         """failcase"""
         self.loginpage.login(username, psw)
         result = self.loginpage.get_login_result()
-        self.assertTrue(result == 'cyf-01')
+        self.assertTrue(result != 'cyf-01')
 
     # def log_out(self):
     #     self.loginpage.logout()
@@ -39,4 +39,3 @@ class LoginCase(unittest.TestCase):
 
 if __name__ == '__main__':
     unittest.main()
-
