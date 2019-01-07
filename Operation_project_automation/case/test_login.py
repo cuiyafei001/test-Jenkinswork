@@ -24,7 +24,7 @@ class LoginCase(unittest.TestCase):
         self.assertTrue(result == 'cyf-01')
 
     def test_login2(self, username='cyf-1245', psw='123456'):
-        """failcase"""
+        """FailCase"""
         self.loginpage.login(username, psw)
         result = self.loginpage.get_login_result()
         self.assertTrue(result != 'cyf-01')

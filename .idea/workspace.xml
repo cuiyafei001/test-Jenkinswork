@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="114cbfe8-be85-4810-ae82-b078a2c5597b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Operation_project_automation/case/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operation_project_automation/case/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operation_project_automation/report/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/Operation_project_automation/report/result.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +30,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Operation_project_automation/case/test_login.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+            <state relative-caret-position="274">
+              <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
               <folding>
                 <element signature="e#15#19#0" expanded="true" />
               </folding>
@@ -107,7 +105,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="20" />
     <option name="width" value="1280" />
     <option name="height" value="698" />
@@ -280,7 +278,7 @@
       <option name="presentableId" value="Default" />
       <updated>1545890830632</updated>
       <workItem from="1546823988497" duration="137000" />
-      <workItem from="1546845268980" duration="854000" />
+      <workItem from="1546845268980" duration="1151000" />
     </task>
     <servers />
   </component>
@@ -317,7 +315,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="991000" />
+    <option name="totallyTimeSpent" value="1288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -507,8 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Operation_project_automation/case/test_login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="29" column="43" lean-forward="true" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
+        <state relative-caret-position="274">
+          <caret line="28" column="50" lean-forward="true" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
           <folding>
             <element signature="e#15#19#0" expanded="true" />
           </folding>
