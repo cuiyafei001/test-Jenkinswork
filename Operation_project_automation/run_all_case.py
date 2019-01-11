@@ -1,4 +1,4 @@
-le # coding=utf-8
+# coding=utf-8
 import unittest
 import time
 from common.HTMLTestRunner_api import HTMLTestRunner
