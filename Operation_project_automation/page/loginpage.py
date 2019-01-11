@@ -1,4 +1,4 @@
-from Operation_project_automation.common.base import Base
+from common.base import Base
 from selenium import webdriver
 
 # 继承过来的类，里面的方法可以直接self.调用，不需要实例化

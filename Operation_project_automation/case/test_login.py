@@ -1,5 +1,5 @@
 # coding:utf-8
-from Operation_project_automation.page.loginpage import LoginPage
+from page.loginpage import LoginPage
 from selenium import webdriver
 import unittest
 

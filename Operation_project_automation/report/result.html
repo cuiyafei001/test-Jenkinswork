@@ -247,9 +247,9 @@ function close_shots(obj) {
 </div>
 <div class='heading'>
 <h1>自动化测试报告,测试结果如下：</h1>
-<p class='attribute'><strong>开始时间:</strong> 2019-01-09 17:43:05</p>
-<p class='attribute'><strong>耗时:</strong> 0:00:00</p>
-<p class='attribute'><strong>状态:</strong> <span class="tj errorCase">Error</span>1</p>
+<p class='attribute'><strong>开始时间:</strong> 2019-01-11 15:14:35</p>
+<p class='attribute'><strong>耗时:</strong> 0:00:42.887000</p>
+<p class='attribute'><strong>状态:</strong> <span class="tj passCase">Pass</span>2</p>
 
 <p class='description'>用例执行情况：</p>
 </div>
@@ -282,42 +282,60 @@ function close_shots(obj) {
     <td>错误截图</td>
 </tr>
 
-<tr class='errorClass'>
-    <td>unittest.loader._FailedTest</td>
-    <td>1</td>
+<tr class='passClass'>
+    <td>test_login.LoginCase</td>
+    <td>2</td>
+    <td>2</td>
     <td>0</td>
     <td>0</td>
-    <td>1</td>
-    <td><a href="javascript:showClassDetail('c1',1)">详情</a></td>
+    <td><a href="javascript:showClassDetail('c1',2)">详情</a></td>
     <td>&nbsp;</td>
 </tr>
 
-<tr id='ft1.1' class='none'>
-    <td ><div class='testcase'>test_login</div></td>
+<tr id='pt1.1' class='hiddenRow'>
+    <td ><div class='testcase'>test_login1: SuccessCase</div></td>
     <td colspan='5' align='center'>
 
     <!--css div popup start-->
-    <span class='status errorCase'>
-    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_ft1.1')" >
-        错误</a></span>
+    <span class='status passCase'>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.1')" >
+        通过</a></span>
 
-    <div id='div_ft1.1' class="popup_window">
+    <div id='div_pt1.1' class="popup_window">
         <div style='text-align: right; color:red;cursor:pointer'>
-        <a onfocus='this.blur();' onclick="document.getElementById('div_ft1.1').style.display = 'none' " >
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.1').style.display = 'none' " >
            [x]</a>
         </div>
         <pre>
         
-ft1.1: ImportError: Failed to import test module: test_login
-Traceback (most recent call last):
-  File "D:\Python36\lib\unittest\loader.py", line 428, in _find_test_path
-    module = self._get_module_from_name(name)
-  File "D:\Python36\lib\unittest\loader.py", line 369, in _get_module_from_name
-    __import__(name)
-  File "D:\SSE_testwork\Operation_project_automation\case\test_login.py", line 2, in &lt;module&gt;
-    from Operation_project_automation.page.loginpage import LoginPage
-ModuleNotFoundError: No module named 'Operation_project_automation'
+pt1.1: cyf-01
 
+
+        </pre>
+    </div>
+    <!--css div popup end-->
+
+    </td>
+    <td></td>
+</tr>
+
+<tr id='pt1.2' class='hiddenRow'>
+    <td ><div class='testcase'>test_login2: FailCase</div></td>
+    <td colspan='5' align='center'>
+
+    <!--css div popup start-->
+    <span class='status passCase'>
+    <a class="popup_link" onfocus='this.blur();' href="javascript:showTestDetail('div_pt1.2')" >
+        通过</a></span>
+
+    <div id='div_pt1.2' class="popup_window">
+        <div style='text-align: right; color:red;cursor:pointer'>
+        <a onfocus='this.blur();' onclick="document.getElementById('div_pt1.2').style.display = 'none' " >
+           [x]</a>
+        </div>
+        <pre>
+        
+pt1.2: 登录失败！！！，返回空字符
 
 
         </pre>
@@ -330,16 +348,16 @@ ModuleNotFoundError: No module named 'Operation_project_automation'
 
 <tr id='total_row'>
     <td>统计</td>
-    <td>1</td>
+    <td>2</td>
+    <td>2</td>
     <td>0</td>
     <td>0</td>
-    <td>1</td>
     <td>&nbsp;</td>
     <td>&nbsp;</td>
 </tr>
 </table>
 <script>
-    drawCircle(0, 0, 1)
+    drawCircle(2, 0, 0)
 </script>
 
 <div id='ending'>&nbsp;</div>
